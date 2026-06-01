@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 🤪
 
-<!--
-**joshdr251/joshdr251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 | About me
 
-Here are some ideas to get you started:
+- 🚀 Passionate 18-year-old developer
+- Focused on building clean and functional software
+- 🌱 Constantly expanding my horizon by diving into new concepts
+- 🔭 Currently developing a **CSV-Data-Analyser** (Python & Pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 | Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Tkinter](https://img.shields.io/badge/Tkinter-387B47?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-4F5D75?style=for-the-badge&logo=markdown&logoColor=white)
