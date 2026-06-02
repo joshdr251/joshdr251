@@ -1,11 +1,12 @@
-## Hi there 🤪
+# Hi there 🧑‍💻
 
-## 🧑‍💻 | About me
+## 🪪 | About me
 
-- 🚀 Passionate 18-year-old developer
-- Focused on building clean and functional software
+- 🚀 Passionate 18-year-old developer focused on building clean and functional software
 - 🌱 Constantly expanding my horizon by diving into new concepts
-- 🔭 Currently developing a **CSV-Data-Analyser** (Python & Pandas)
+- 🔭 Currently developing a [CSV-Data-Analyser](https://github.com/joshdr251/csv-data-analyser) using Python & Pandas
+
+<br>
 
 ## 💻 | Tech Stack
 
@@ -17,3 +18,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-4F5D75?style=for-the-badge&logo=markdown&logoColor=white)
+
+<br>
+
+## 📬 | Connect with me
+
+[![Email](https://img.shields.io/badge/Email-jonathan.schader%40gmx.de-1f425f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.schader@gmx.de)
+
+<br>
+
+### Check out my latest projects ⤵️
