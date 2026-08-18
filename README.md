@@ -4,7 +4,8 @@
 
 - 🚀 Passionate 18-year-old developer focused on building clean and functional software
 - 🌱 Constantly expanding my horizon by diving into new concepts
-- 🔭 Currently developing a [CSV-Data-Analyser](https://github.com/joshdr251/csv-data-analyser) using Python & Pandas
+- 📊 Recently published a [CSV-Data-Analyser](https://github.com/joshdr251/csv-data-analyser) using Python and Pandas
+- 🔭 Currently developing a [Sentiment-Analyser](https://github.com/joshdr251/sentiment-analyser) using Python, Pandas and Scikit-learn
 
 <br>
 
