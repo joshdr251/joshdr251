@@ -3,19 +3,28 @@
 ## 🪪 | About me
 
 - 🚀 Passionate 18-year-old developer focused on building clean and functional software
-- 🌱 Constantly expanding my horizon by diving into new concepts
-- 📊 Recently published a [CSV-Data-Analyser](https://github.com/joshdr251/csv-data-analyser) using Python and Pandas
-- 🔭 Currently developing a [Sentiment-Analyser](https://github.com/joshdr251/sentiment-analyser) using Python, Pandas and Scikit-learn
+- 🎓 Starting my B.Sc. in Computer Science in summer 2027
+- 🌱 Constantly expanding my horizons by diving into new concepts
+- 📊 Recently published a [Recursion Toolkit](https://github.com/joshdr251/recursion-toolkit) to practice using recursion more effectively
+- 🔭 Currently developing a [Pushdown Automaton](https://github.com/joshdr251/pushdown-automaton) (deterministic and non-deterministic versions)
 
 <br>
 
 ## 💻 | Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%235C2D91.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Libraries**
+
 ![Tkinter](https://img.shields.io/badge/Tkinter-387B47?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Java](https://img.shields.io/badge/java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -23,10 +32,4 @@
 
 <br>
 
-## 📬 | Connect with me
-
-[![Email](https://img.shields.io/badge/Email-jonathan.schader%40gmx.de-1f425f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.schader@gmx.de)
-
-<br>
-
-### Check out my latest projects ⤵️
+## 📂 | Projects
